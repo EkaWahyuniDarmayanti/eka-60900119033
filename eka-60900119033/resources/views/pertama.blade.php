@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=p, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
 <body>
-    <p>alasan belajar kakas agar code-code kita dapat tersimpan dengan aman dan gampang di cari.</p>
+    <p>alasan belajar kakas agar code code kita dapat tersimpan dengan baik dan mudah di akses kembali</p>
 </body>
 </html>
